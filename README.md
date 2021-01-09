@@ -1,6 +1,19 @@
 # Aaeditor
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+This is very basic rich text box editor developed using javascript & angular. `richeditor` is a angular directive.
+it will transform the html container tags (`div`) into an editor.
+
+sample :`<div richeditor ></div>`
+
+
+## Possible improvement
+  Well this is very basic component. development completed in very minimal time . 
+
+* use scss variables & more granular scss rules.
+* different parser (html,json) can be implement .
+* font-awesome dependency should include via npm .
+
+
 
 ## Development server
 
